@@ -1,6 +1,5 @@
 Flask
 Flask_cors
-Pickle
 Pandas
 Numpy
 gunicorn
@@ -8,4 +7,5 @@ scipy
 scikit-learn
 matplotlib
 seaborn
+
 
